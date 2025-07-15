@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: Roboto, sans-serif;
+}
+
+textarea {
+  width: 100%;
+  min-height: 200px;
+  font-family: inherit;
+  font-size: 16px;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+button {
+  margin-top: 16px;
+}
